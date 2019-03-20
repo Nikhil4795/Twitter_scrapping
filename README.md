@@ -1,4 +1,4 @@
-# Twitter_scrapping
+# Twitter_scraping / Crawling
 
 This is basic sample script to scrape/crawl the data from Twitter Website.
 
